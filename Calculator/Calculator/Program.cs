@@ -13,7 +13,6 @@
             Console.WriteLine("6.Найти квадратный корень из числа");
             Console.WriteLine("7.Найти 1 процент от числа");
             Console.WriteLine("8.Найти факториал числа");
-            Console.WriteLine("9.Выход из программы");
 
 
             int number = Convert.ToInt32(Console.ReadLine());
